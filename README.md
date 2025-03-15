@@ -6,6 +6,11 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2024.12 | **Improving Vision-Language-Action Models via Chain-of-Affordance** |   arXiv     | [link](https://arxiv.org/abs/2412.20451) |        [link](https://chain-of-affordance.github.io/)    |
+| 2024.07 | **Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression** |   arXiv     | [link](https://arxiv.org/html/2412.03293v1) |        [link](https://diffusion-vla.github.io/)    |
+| 2024.07 | **RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation** |   arXiv     | [link](https://arxiv.org/pdf/2406.04339) |        [link](https://sites.google.com/view/robomamba-web)    |
+| 2023.12 | **Robotic Control via Embodied Chain-of-Thought Reasoning** |   arXiv     | [link](https://arxiv.org/abs/2407.08693) |        [link](https://embodied-cot.github.io/)    |
+| 2023.12 | **ThinkBot: Embodied Instruction Following with Thought Chain Reasoning** |   arXiv     | [link](https://arxiv.org/abs/2312.07062) |        -   |
 | 2023.07 | **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** |   arXiv     | [link](https://arxiv.org/pdf/2503.07572) |        [link](https://robotics-transformer2.github.io/)    |
 
 
