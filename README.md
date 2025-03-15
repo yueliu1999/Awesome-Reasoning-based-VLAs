@@ -7,6 +7,7 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.03 | **Gemini Robotics brings AI into the physical world** |   Google     | [link]([https://arxiv.org/abs/2502.03729](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)) |       -    |
+| 2025.03 | **CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models** |   arXiv     | [link](https://cvpr.thecvf.com/virtual/2025/poster/33233)) |       -    |
 | 2025.02 | **Action-Free Reasoning for Policy Generalization** |   arXiv     | [link](https://arxiv.org/abs/2502.03729) |       -    |
 | 2025.02 | **ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration** |   arXiv     | [link](https://arxiv.org/abs/2502.19250) |        [link](https://objectvla.github.io/)    |
 | 2024.12 | **Improving Vision-Language-Action Models via Chain-of-Affordance** |   arXiv     | [link](https://arxiv.org/abs/2412.20451) |        [link](https://chain-of-affordance.github.io/)    |
