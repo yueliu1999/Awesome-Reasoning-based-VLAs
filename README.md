@@ -6,6 +6,7 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.03 | **Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks** |   arXiv'25     | [link](https://arxiv.org/abs/2503.21696) |       -    |
 | 2025.03 | **Gemini Robotics brings AI into the physical world** |   Google     | [link](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) |       -    |
 | 2025.03 | **CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models** |   CVPR'25     | [link](https://cvpr.thecvf.com/virtual/2025/poster/33233) |       -    |
 | 2025.02 | **Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models** |   arXiv     | [link](https://arxiv.org/abs/2502.19417) |       -    |
