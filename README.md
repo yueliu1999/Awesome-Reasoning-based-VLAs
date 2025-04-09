@@ -37,6 +37,8 @@ Code as reasoning (Spatial Constraints):
 
 CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models
 
+Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning
+
 VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models
 
 Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation
