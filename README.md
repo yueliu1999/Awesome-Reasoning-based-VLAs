@@ -100,6 +100,8 @@ PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation; u
 
 MOKA: Open-world robotic manipulation through mark-based visual prompting; waypoint reasoning; visual prompt; Hierarchical reasoning;
 
+Magma: A Foundation Model for Multimodal AI Agents;
+
 ## Contributors
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="72" height="72"/></a> 
 
