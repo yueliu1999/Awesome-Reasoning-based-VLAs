@@ -33,17 +33,72 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 
 
 
-Code as reasoning (Spatial Constraints):
+**Code as reasoning (Spatial Constraints):**
 
 CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models
 
 Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning
+
+Code as policies: Language model programs for embodied control
 
 VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models
 
 Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation
 
 Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection
+
+
+**Explicit Compact CoT**
+
+Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models
+
+CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models
+
+Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks
+
+Robotic Control via Embodied Chain-of-Thought Reasoning
+
+ThinkBot: Embodied Instruction Following with Thought Chain Reasoning
+
+
+
+**Implicit Latent CoT**
+
+RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+
+Openvla: An open-source vision-language-action model
+
+Palm-e: An embodied multimodal language model
+
+
+
+**Others**
+
+Gemini Robotics brings AI into the physical world
+
+Action-Free Reasoning for Policy Generalization
+
+ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration
+
+Improving Vision-Language-Action Models via Chain-of-Affordance
+
+Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression
+
+RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation
+
+RAT: retrieval augmented thoughts elicit context-aware reasoning in long-horizon generation
+
+React: Synergizing reasoning and acting in language models
+
+Tree-planner: Efficient close-loop task planning with large language models
+
+
+Vima: General robot manipulation with multimodal prompts
+
+
+Closed-loop open-vocabulary mobile manipulation with gpt-4v
+
+Reasoning with language model is planning with world model
 
 
 
