@@ -43,6 +43,8 @@ VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models
 
 Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation
 
+Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection
+
 
 
 
