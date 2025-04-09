@@ -33,6 +33,14 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 
 
 
+Code as reasoning (Spatial Constraints):
+CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models
+VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models
+Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation
+
+
+
+
 ## Contributors
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="72" height="72"/></a> 
 
