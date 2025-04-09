@@ -28,24 +28,21 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 | 2024.04 | **Closed-loop open-vocabulary mobile manipulation with gpt-4v** |   CoRR'24     | [link]([https://arxiv.org/pdf/2404.10220?)) |        [link]()    |
 | 2023.05 | **Reasoning with language model is planning with world model** |   EMNLP'23     | [link]([https://arxiv.org/pdf/2305.14992)) |        [link]()    |
 | 2024.09 | **Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation** |   CoRL'24     | [link]([https://arxiv.org/abs/2409.01652])) |        [link]()    |
-
+| - | **CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models** |   -     | - |        -    |
+| - | **Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning** |   -     | - |        -    |
+| - | **VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models** |   -     | - |        -    |
+| - | **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection** |   -     | - |        -    |
 
 
 
 
 **Code as reasoning (Spatial Constraints):**
-
-CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models
-
-Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning
-
-Code as policies: Language model programs for embodied control
-
-VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models
-
-Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation
-
-Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| - | **CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models** |   -     | - |        -    |
+| - | **Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning** |   -     | - |        -    |
+| - | **VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models** |   -     | - |        -    |
+| - | **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection** |   -     | - |        -    |
 
 
 **Explicit Compact CoT**
@@ -92,9 +89,7 @@ React: Synergizing reasoning and acting in language models
 
 Tree-planner: Efficient close-loop task planning with large language models
 
-
 Vima: General robot manipulation with multimodal prompts
-
 
 Closed-loop open-vocabulary mobile manipulation with gpt-4v
 
