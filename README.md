@@ -96,7 +96,9 @@ Closed-loop open-vocabulary mobile manipulation with gpt-4v
 Reasoning with language model is planning with world model
 
 
+PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation; use waypoint to help model to grasp;
 
+MOKA: Open-world robotic manipulation through mark-based visual prompting; waypoint reasoning; visual prompt; Hierarchical reasoning;
 
 ## Contributors
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="72" height="72"/></a> 
