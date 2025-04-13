@@ -33,7 +33,21 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 | - | **VoxPoser: Composable 3D Value Mapsfor Robotic Manipulation with Language Models** |   -     | - |        -    |
 | - | **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection** |   -     | - |        -    | -->
 
+**image generate as reasoning:**
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| - | **Zero-shot robotic manipulation with pretrained image-editing diffusion models** |   image generation    | - |        -    |
+| - | **CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models** |   image generation and cot    | - |        -    |
+| - | **Goal-conditioned imitation learning** |   image generation    | - |    -    |
+| - | **Learning Universal Policies via Text-Guided Video Generation** |   video generation    | - |    -    |
+| - | **Generate subgoal images before act: Unlocking the chain-of-thought reasoning in diffusion model for robot manipulation with multimodal prompts** |   image generation and cot    | - |    -    |
+| - | **Generative Image as Action Models** |   image generation   | - |    -    |
 
+
+**plan and decompose:**
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| - | **Learning Interactive Real-World Simulators** |   high-level to low-level planning    | - |        -    |
 
 
 **Code as reasoning (Spatial Constraints):**
@@ -46,20 +60,22 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 | -    | Text2motion: From natural language instructions to feasible plans | plan and constrain   | -    | -      |
 | -    | Code as policies: Language model programs for embodied control   | -    | -      |
 | -    | Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation   | -    | -      |
-
+| -    | Progprompt: Generating situated robot task plans using large language models   | -    | -      |
+| -    | Language to rewards for robotic skill synthesis   | use llm to generate reward model  | -      |
 
 ### Explicit Compact CoT
 
 | Time | Title                                                                 | Venue |                           Paper                            |                            Code                            |
 | ---- | --------------------------------------------------------------------- | :---: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | -    | Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models | -     | -                                                       | -                                                       |
-| -    | CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models | -     | -                                                       | -                                                       |
+| -    | CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models | image generation  | - | -  |
 | -    | Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks | -     | -                                                       | -                                                       |
 | -    | Robotic Control via Embodied Chain-of-Thought Reasoning              | -     | -                                                       | -                                                       |
 | -    | ThinkBot: Embodied Instruction Following with Thought Chain Reasoning  | -     | -                                                       | -                                                       |
 | -    | Do as i can, not as i say: Grounding language in robotic affordances  | SayCan;     | -                                                       | -                                                       |
 | -    | Embodiedgpt: Vision-language pre-training via embodied chain of thought  |  -    | -                                                       | -                                                       |
 | -    | Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners  |  reason uncertainty    | -                                                       | -                                                       |
+| -    | Minedreamer: Learning to follow instructions via chain-of-imagination for simulated-world control  |   Chain-of-Imagination; image generation  | -  | - |
 
 
 
@@ -99,7 +115,8 @@ Awesome-Reasoning-based-VLAs is a collection of state-of-the-art, novel, excitin
 | -    | Interactive robot learning from verbal correction | OLAF; reflection   | -                                                       | -                                                       |
 | -    | Yell at your robot: Improving on-the-fly from language corrections | YAY Robot; reflection   | -                                                       | -                                                       |
 | -    | OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics | framework;   | -      | -    |
-
+| -    | Any-point trajectory modeling for policy learning | trajectory help action;   | -      | -    |
+| -    | Scaling up and distilling down: Language-guided robot skill acquisition | -   | -      | -    |
 
 
 
